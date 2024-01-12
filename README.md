@@ -14,7 +14,8 @@
 </h3>
 
 <h3>
- * [Lab Exercise]()
+  
+ * [Lab Exercise](https://github.com/SabrinaHeng/Programming-Technique-1/tree/main/Lab%20Exercise)
 </h3>
 
 <h3>
