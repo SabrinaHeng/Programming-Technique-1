@@ -23,5 +23,6 @@
 </h3>
 
 <h3>
- * [Others Exercise]()
+  
+ * [Others Exercise](https://github.com/SabrinaHeng/Programming-Technique-1/tree/main/Others%20Exercise)
 </h3>
