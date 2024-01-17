@@ -23,6 +23,7 @@
 
 <h3> - Chaoter 8 - Structured Data</h3>
 
+</details>
 
 <h2>
   List of Course Work
