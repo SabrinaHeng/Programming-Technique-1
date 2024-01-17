@@ -4,6 +4,26 @@
 </p>
 </h1>
 
+## Topic
+<details>
+<summary><b>CHECK OUT !!</b></summary>
+<h3> - Chapter 1 - Programming Problem Solving</h3><br> 
+
+<h3> - Chapter 2 - Elementary Programming</h3><br>
+
+<h3> - Chapter 3 - Control Structures</h3><br>
+
+<h3> - Chapter 4 -Functions </h3><br>
+
+<h3> - Chapter 5 - Array</h3><br>
+
+<h3> - Chapter 6 - Input & Output</h3><br>
+
+<h3> - Chapter 7 - Pointers</h3><br>
+
+<h3> - Chaoter 8 - Structured Data</h3>
+
+
 <h2>
   List of Course Work
 </h2>
